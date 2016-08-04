@@ -1,0 +1,63 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.container.product_display {
+	background-color: #F4F4F4;
+}
+
+.buy {
+  text-align: center;
+}
+
+.btn.btn-warning {
+	padding: 6px 45px;
+	font-size: 20px;
+	padding: 6px 40px;
+	font-size: 20px;
+}
+
+.row1 {
+	margin-top: 50px;
+}
+
+.row2 {
+	margin-top: 50px;
+}
+
+.row3 {
+	margin-top: 50px;
+}
+
+.row4 {
+	margin-top: 50px;
+}
+
+.row5 {
+	margin-top: 50px;
+	margin-bottom: 75px;
+
+}
+
+/***Modal***/
+.modal-body {
+  text-align: left;
+}
+
+/***Footer***/
+.footer {
+	text-align: center;
+	margin-top: 50px;
+  margin-bottom: 50px;
+
+  p {
+  	color: #9896AA;
+  }
+}
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	.container {
+		width: 1066px !important;
+	}
+}
