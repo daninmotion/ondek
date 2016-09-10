@@ -15,8 +15,11 @@
  */
 @import "bootstrap-sprockets";
 @import "bootstrap";
+@import "normalize.css.scss";
+@import "home.css.scss";
 
 body {
 	margin-top: 75px; 
 }
+
 
