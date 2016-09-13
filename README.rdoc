@@ -1,17 +1,9 @@
-An ecommerce store where they only sell skateboard decks.
+An ecommerce store where only skateboard decks are sold. 
 
-* Ruby version
+* Ruby on Rails 5.0.0
 
-* System dependencies
+* Bootstrap
 
-* Configuration
+* Amazon AWS
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Shopify
