@@ -2,6 +2,25 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
+.logo {
+	max-width: 50px;
+	padding-bottom: 10px;
+}
+
+.contact {
+	padding-top: 20px;
+	p {
+		font-size: 16px;
+    font-weight: 400;
+	}
+	a {
+		color: black;
+	}
+	a:hover, a:focus {
+    color: #337ab7;
+    text-decoration: none;
+	}
+}
 
 .container.product_display {
 	background-color: #F4F4F4;
